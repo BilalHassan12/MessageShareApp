@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MessageShareApp</string>
+    <string name="enter_your_message" >Entrez votre message</string>
+    <string name="send_data_to_next_activity" >Passer a la prochaine activite</string>
+    <string name="share_to_other_apps" >Partage vers dautres applications</string>
+    <string name="recycler_view_demo" >Recycler Voir la démo</string>
+    <string name="hello_world">Bonjour le monde de Kotlin</string>
+    <string name="btn_show_toast">Montrer le pain grillé</string>
+    <string name="btn_was_clicked">Le bouton a été cliqué!</string>
+    <string name="title">Titre</string>
+</resources>

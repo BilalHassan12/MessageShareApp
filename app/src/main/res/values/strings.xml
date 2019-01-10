@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" >MessageShareApp</string>
+    <string name="hello_world"  >Hello World of Kotlin</string>
+    <string name="btn_show_toast" >Show Toast</string>
+    <string name="enter_your_message" >Enter your Message</string>
+    <string name="send_data_to_next_activity" >Send Data To Next Activity</string>
+    <string name="share_to_other_apps" >Share to Other Apps</string>
+    <string name="recycler_view_demo" >Recycler View Demo</string>
+    <string name="btn_was_clicked" >Button was clicked!</string>
+    <string name="title">Title</string>
+</resources>
